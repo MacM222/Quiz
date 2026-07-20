@@ -7,7 +7,7 @@ def run_quiz():
         {
             "question": "What is my dog's name?",
             "options": ["A) True", "B) False"],
-            "answer": "B, my dog's name is not the word \"What\" HAHAHAHAH GET IT!"
+            "answer": "B" , my dog's name is not the word \"What\" HAHAHAHAH GET IT!"
         },
         {
             "question": "What is the correct line?.",
